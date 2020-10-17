@@ -6,6 +6,8 @@
 - 26.06.2020 ThoughtWorks | XConf
 - 05.08.2020 Digital Women, an Institute of Coding Event
 - 15.09.2020 React Global Summit for Frontend developers - Junior track
+- 15.10.2020 React Summit - Base Camp Track
+
 
 # On-site Conferences
 
