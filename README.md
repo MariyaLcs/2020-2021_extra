@@ -7,6 +7,7 @@
 - 05.08.2020 Digital Women, an Institute of Coding Event
 - 15.09.2020 React Global Summit for Frontend developers - Junior track
 - 15.10.2020 React Summit - Base Camp Track
+- 20.10.2020-10.12.2020 Turing Fest 2020
 
 
 # On-site Conferences
